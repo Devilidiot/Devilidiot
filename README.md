@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Azamat 👋
 
-<!--
-**Devilidiot/Devilidiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior IT Specialist from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+## About Me
+- Building Telegram bots
+- Learning backend development
+- Interested in cybersecurity & cloud technologies
+- Working with AI-assisted development workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Git & GitHub
+- Linux / Kali Linux
+- HTML / CSS
+- Telegram Bot API
+- Basic SQL
+
+## Current Projects
+- Telegram Tour Bot
+- AI-assisted web projects
+- Automation tools
+
+## Contacts
+- Telegram: @just_azike
+- Email: gakroenem@gmail.com
